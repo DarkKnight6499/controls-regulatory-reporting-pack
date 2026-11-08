@@ -1,0 +1,13 @@
+evidence_id,date,control_id,preparer,reviewer,prepared_on,reviewed_on,due_on,artifact_ref,artifact_sha256,impact,likelihood
+E002,2026-10-19,CAPITAL,Maker-A,Checker-B,2026-10-19,2026-10-19,2026-10-19,data/synthetic/evidence/E002.json,e3d87813e98f2f7f283d4be1efe688cc17ac35208fa146fc77ccafefae55a2d0,2,3
+E006,2026-10-20,CAPITAL,Maker-A,Checker-B,2026-10-20,2026-10-20,2026-10-20,data/synthetic/evidence/E006.json,67e9720c468401b4ffc69ceca01fdc6d8f0853c45fdcaaa5d0a7af1c0264a71e,4,3
+E007,2026-10-20,LEASE,Maker-A,Checker-B,2026-10-20,2026-10-22,2026-10-20,data/synthetic/evidence/E007.json,9e5bbc18e66322c93d2ba7dd7d8a22c965f3f3f4197ec6a9451519900ff5fd9b,2,3
+E009,2026-10-21,RESERVE,Maker-A,Checker-B,2026-10-21,2026-10-21,2026-10-21,data/synthetic/evidence/E009.json,ef765f3be5937928ae90bc076a1282f065c9c87dd2b5b2ff325a04fd9b06a5e7,4,3
+E010,2026-10-21,CAPITAL,Maker-A,Checker-B,2026-10-21,2026-10-21,2026-10-21,data/synthetic/evidence/E010.json,3b41ae70ec1b1a80781abaa8245bcf177c8254d1a544e4157f4faf0c1eecc2be,2,3
+E021,2026-10-26,RESERVE,Maker-A,Checker-B,2026-10-26,2026-10-28,2026-10-26,data/synthetic/evidence/E021.json,616aa5ca33f1854ad4bd0dc25c9da6ce7f6b56446836835bd1d82ce1e279b35a,4,3
+E022,2026-10-26,CAPITAL,Maker-A,Maker-A,2026-10-26,2026-10-26,2026-10-26,data/synthetic/evidence/E022.json,62d82953b5d6f67555b49f0787672bf97e5a2e922a1b2037422e7727c6c31cf3,2,3
+E024,2026-10-26,VENDOR,Maker-A,Checker-B,2026-10-26,2026-10-26,2026-10-26,data/synthetic/evidence/E024.json,230e2c98c3db682f73e025ae95226677ff8b8960b44f09d5db1c09290672e2ab,4,3
+E031,2026-10-28,LEASE,Maker-A,Checker-B,2026-10-28,2026-10-28,2026-10-28,data/synthetic/evidence/E031.json,135efad3f03828a38d4f36b61c2f8c917b7c50af62570002519fe834c524a295,2,3
+E035,2026-10-29,LEASE,Maker-A,Checker-B,2026-10-29,2026-10-31,2026-10-29,data/synthetic/evidence/E035.json,0020815839fb06786e3d70e4c998a100d2f1811706dc623d949d207a6e34b2d8,2,3
+E037,2026-10-30,RESERVE,Maker-A,Checker-B,2026-10-30,2026-10-30,2026-10-30,data/synthetic/evidence/E037.json,5f9d46dfbc9db7e99107e1dc216a3342857a986e76487da9807cb3eda8927876,2,3
+E039,2026-10-30,LEASE,Maker-A,Checker-B,2026-10-30,2026-10-30,2026-10-30,,,4,3

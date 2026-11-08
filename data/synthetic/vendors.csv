@@ -1,0 +1,6 @@
+vendor_id,service,owner,criticality,data_sensitivity,substitutability,last_review
+V001,Hosted ledger,Technology Risk,5,5,4,2026-06-01
+V002,Payments,Treasury,5,4,4,2026-10-01
+V003,Market data,Market Risk,3,2,3,2026-02-01
+V004,Office supplies,Operations,1,1,1,2026-07-01
+V005,Document archive,Compliance,3,4,3,2026-03-01

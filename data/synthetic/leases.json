@@ -1,0 +1,119 @@
+[
+  {
+    "lease_id": "OFFICE-01",
+    "kind": "operating",
+    "payments": [
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      10000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0,
+      11000.0
+    ],
+    "periodic_rate": 0.005,
+    "prepaid": 2000.0,
+    "incentive": 1000.0,
+    "initial_direct_cost": 500.0,
+    "modification": {
+      "effective_period": 13,
+      "remaining_payments": [
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0,
+        12500.0
+      ],
+      "periodic_rate": 0.006,
+      "change_type": "consideration_only"
+    }
+  },
+  {
+    "lease_id": "EQUIP-01",
+    "kind": "finance",
+    "payments": [
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0,
+      5000.0
+    ],
+    "periodic_rate": 0.004,
+    "prepaid": 0.0,
+    "incentive": 0.0,
+    "initial_direct_cost": 1000.0,
+    "modification": null
+  },
+  {
+    "lease_id": "SYSTEM-01",
+    "kind": "finance",
+    "payments": [
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0,
+      3000.0
+    ],
+    "periodic_rate": 0.003,
+    "prepaid": 500.0,
+    "incentive": 0.0,
+    "initial_direct_cost": 0.0,
+    "modification": {
+      "effective_period": 7,
+      "remaining_payments": [
+        3300.0,
+        3300.0,
+        3300.0,
+        3300.0,
+        3300.0,
+        3300.0
+      ],
+      "periodic_rate": 0.004,
+      "change_type": "consideration_only"
+    }
+  }
+]

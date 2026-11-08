@@ -1,0 +1,121 @@
+date,account,classification,balance
+2026-10-19,Operating cash,asset,1713255.0
+2026-10-19,Reserve deposit,asset,2300000.0
+2026-10-19,Customer receivables,asset,1020773
+2026-10-19,Receivables conservatively deducted,nonallowable,31000
+2026-10-19,Firm securities,asset,401475
+2026-10-19,Customer free credit,liability,-3012918
+2026-10-19,Equity,equity,-1998585.0
+2026-10-19,Fixed assets,nonallowable,200000.0
+2026-10-19,Prepaid expenses,nonallowable,50000.0
+2026-10-19,Customer drafts,liability,-20000
+2026-10-19,Other customer payables,liability,-185000
+2026-10-19,Office payable,liability,-500000.0
+2026-10-20,Operating cash,asset,1733974.0
+2026-10-20,Reserve deposit,asset,2300000.0
+2026-10-20,Customer receivables,asset,1016556
+2026-10-20,Receivables conservatively deducted,nonallowable,31000
+2026-10-20,Firm securities,asset,398911
+2026-10-20,Customer free credit,liability,-3021267
+2026-10-20,Equity,equity,-2004174.0
+2026-10-20,Fixed assets,nonallowable,200000.0
+2026-10-20,Prepaid expenses,nonallowable,50000.0
+2026-10-20,Customer drafts,liability,-20000
+2026-10-20,Other customer payables,liability,-185000
+2026-10-20,Office payable,liability,-500000.0
+2026-10-21,Operating cash,asset,1699159.0
+2026-10-21,Reserve deposit,asset,2300000.0
+2026-10-21,Customer receivables,asset,1026942
+2026-10-21,Receivables conservatively deducted,nonallowable,31000
+2026-10-21,Firm securities,asset,404514
+2026-10-21,Customer free credit,liability,-3022516
+2026-10-21,Equity,equity,-1984099.0
+2026-10-21,Fixed assets,nonallowable,200000.0
+2026-10-21,Prepaid expenses,nonallowable,50000.0
+2026-10-21,Customer drafts,liability,-20000
+2026-10-21,Other customer payables,liability,-185000
+2026-10-21,Office payable,liability,-500000.0
+2026-10-22,Operating cash,asset,1664318.0
+2026-10-22,Reserve deposit,asset,2300000.0
+2026-10-22,Customer receivables,asset,1062964
+2026-10-22,Receivables conservatively deducted,nonallowable,31000
+2026-10-22,Firm securities,asset,393838
+2026-10-22,Customer free credit,liability,-3016517
+2026-10-22,Equity,equity,-1980603.0
+2026-10-22,Fixed assets,nonallowable,200000.0
+2026-10-22,Prepaid expenses,nonallowable,50000.0
+2026-10-22,Customer drafts,liability,-20000
+2026-10-22,Other customer payables,liability,-185000
+2026-10-22,Office payable,liability,-500000.0
+2026-10-23,Operating cash,asset,1639331.0
+2026-10-23,Reserve deposit,asset,2300000.0
+2026-10-23,Customer receivables,asset,1054400
+2026-10-23,Receivables conservatively deducted,nonallowable,31000
+2026-10-23,Firm securities,asset,398515
+2026-10-23,Customer free credit,liability,-2979213
+2026-10-23,Equity,equity,-1989033.0
+2026-10-23,Fixed assets,nonallowable,200000.0
+2026-10-23,Prepaid expenses,nonallowable,50000.0
+2026-10-23,Customer drafts,liability,-20000
+2026-10-23,Other customer payables,liability,-185000
+2026-10-23,Office payable,liability,-500000.0
+2026-10-26,Operating cash,asset,1683842.0
+2026-10-26,Reserve deposit,asset,2300000.0
+2026-10-26,Customer receivables,asset,1045472
+2026-10-26,Receivables conservatively deducted,nonallowable,31000
+2026-10-26,Firm securities,asset,402143
+2026-10-26,Customer free credit,liability,-2996575
+2026-10-26,Equity,equity,-2010882.0
+2026-10-26,Fixed assets,nonallowable,200000.0
+2026-10-26,Prepaid expenses,nonallowable,50000.0
+2026-10-26,Customer drafts,liability,-20000
+2026-10-26,Other customer payables,liability,-185000
+2026-10-26,Office payable,liability,-500000.0
+2026-10-27,Operating cash,asset,2268504.0
+2026-10-27,Reserve deposit,asset,2300000.0
+2026-10-27,Customer receivables,asset,1024060
+2026-10-27,Receivables conservatively deducted,nonallowable,31000
+2026-10-27,Firm securities,asset,396232
+2026-10-27,Customer free credit,liability,-3541081
+2026-10-27,Equity,equity,-2023715.0
+2026-10-27,Fixed assets,nonallowable,200000.0
+2026-10-27,Prepaid expenses,nonallowable,50000.0
+2026-10-27,Customer drafts,liability,-20000
+2026-10-27,Other customer payables,liability,-185000
+2026-10-27,Office payable,liability,-500000.0
+2026-10-28,Operating cash,asset,1699382.0
+2026-10-28,Reserve deposit,asset,2300000.0
+2026-10-28,Customer receivables,asset,1051389
+2026-10-28,Receivables conservatively deducted,nonallowable,31000
+2026-10-28,Firm securities,asset,400009
+2026-10-28,Customer free credit,liability,-3044103
+2026-10-28,Equity,equity,-1982677.0
+2026-10-28,Fixed assets,nonallowable,200000.0
+2026-10-28,Prepaid expenses,nonallowable,50000.0
+2026-10-28,Customer drafts,liability,-20000
+2026-10-28,Other customer payables,liability,-185000
+2026-10-28,Office payable,liability,-500000.0
+2026-10-29,Operating cash,asset,380133.0
+2026-10-29,Reserve deposit,asset,2300000.0
+2026-10-29,Customer receivables,asset,1019074
+2026-10-29,Receivables conservatively deducted,nonallowable,31000
+2026-10-29,Firm securities,asset,154259
+2026-10-29,Customer free credit,liability,-2979466
+2026-10-29,Equity,equity,-450000.0
+2026-10-29,Fixed assets,nonallowable,200000.0
+2026-10-29,Prepaid expenses,nonallowable,50000.0
+2026-10-29,Customer drafts,liability,-20000
+2026-10-29,Other customer payables,liability,-185000
+2026-10-29,Office payable,liability,-500000.0
+2026-10-30,Operating cash,asset,1621765.0
+2026-10-30,Reserve deposit,asset,2300000.0
+2026-10-30,Customer receivables,asset,1052747
+2026-10-30,Receivables conservatively deducted,nonallowable,31000
+2026-10-30,Firm securities,asset,400572
+2026-10-30,Customer free credit,liability,-2966320
+2026-10-30,Equity,equity,-1984764.0
+2026-10-30,Fixed assets,nonallowable,200000.0
+2026-10-30,Prepaid expenses,nonallowable,50000.0
+2026-10-30,Customer drafts,liability,-20000
+2026-10-30,Other customer payables,liability,-185000
+2026-10-30,Office payable,liability,-500000.0

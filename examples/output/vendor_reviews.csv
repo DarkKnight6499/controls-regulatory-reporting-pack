@@ -1,0 +1,6 @@
+vendor_id,service,owner,inherent_risk,tier,questionnaire_score,missing_evidence,residual_risk,residual_band,last_review,next_review,review_status
+V001,Hosted ledger,Technology Risk,4.666666666666667,Tier 1,0.16,2,3.92,High,2026-06-01,2026-08-30,OVERDUE
+V002,Payments,Treasury,4.333333333333333,Tier 1,0.4600000000000001,0,2.3399999999999994,Medium,2026-10-01,2026-12-30,CURRENT
+V003,Market data,Market Risk,2.6666666666666665,Tier 2,0.6599999999999999,0,0.9066666666666668,Low,2026-02-01,2026-07-31,OVERDUE
+V004,Office supplies,Operations,1.0,Tier 3,0.44000000000000006,0,0.5599999999999999,Low,2026-07-01,2027-07-01,CURRENT
+V005,Document archive,Compliance,3.3333333333333335,Tier 2,0.48,0,1.7333333333333334,Medium,2026-03-01,2026-08-28,OVERDUE

@@ -1,0 +1,13 @@
+evidence_id,control_id,date,result,exceptions,deficiency_screen,requires_judgment
+E002,CAPITAL,2026-10-19,PASS,,No exception,False
+E006,CAPITAL,2026-10-20,PASS,,No exception,False
+E007,LEASE,2026-10-20,FAIL,Review past due,Control deficiency: judgment required,True
+E009,RESERVE,2026-10-21,PASS,,No exception,False
+E010,CAPITAL,2026-10-21,PASS,,No exception,False
+E021,RESERVE,2026-10-26,FAIL,Review past due,Potential material weakness: judgment required,True
+E022,CAPITAL,2026-10-26,FAIL,Reviewer is not independent,Control deficiency: judgment required,True
+E024,VENDOR,2026-10-26,PASS,,No exception,False
+E031,LEASE,2026-10-28,PASS,,No exception,False
+E035,LEASE,2026-10-29,FAIL,Review past due,Control deficiency: judgment required,True
+E037,RESERVE,2026-10-30,PASS,,No exception,False
+E039,LEASE,2026-10-30,FAIL,Missing evidence artifact or hash; Missing evidence reference,Potential material weakness: judgment required,True

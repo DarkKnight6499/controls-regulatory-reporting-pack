@@ -1,0 +1,121 @@
+{
+  "synthetic": true,
+  "seed": 8421533,
+  "source_manifest_sha256": "e2ffc9c765f1d38f3d5a86eb159a23cb2c7139ffbaa13642f734d69223d826f1",
+  "source_files": [
+    {
+      "path": "reserve_ledger.csv",
+      "sha256": "3679480055662056483060960f4592fd293ffd735e4b6b3698e1de626d9998bb"
+    },
+    {
+      "path": "positions.csv",
+      "sha256": "6999e3026c57880a31411ae29b3b710ea80f4997a836db32842753054e73fbcd"
+    },
+    {
+      "path": "trial_balance.csv",
+      "sha256": "d7ebf09c12afea50828080dce0fb98977a268c958a3b19e473373dc957771a3c"
+    },
+    {
+      "path": "daily_inputs.csv",
+      "sha256": "d0c598f9e4a05712cb31ac721ab2eec395085a90bfbe7dead81f1d65050bc6b4"
+    },
+    {
+      "path": "covenants.csv",
+      "sha256": "6ed6e5f8f9da985d1b68fabfcc5e4d46ccb1b05d14a6d082055df7be8944ef79"
+    },
+    {
+      "path": "control_population.csv",
+      "sha256": "0f10cdb7d95acc225d84197b78f34e4ae5a8de4a500e2de2f255178f1cfcde4f"
+    },
+    {
+      "path": "vendors.csv",
+      "sha256": "dacdae57a57de10b56edf5181fbd872c2f5aa08f1171b608b70d4b95c6b5370f"
+    },
+    {
+      "path": "questionnaire.csv",
+      "sha256": "3dd60c6323601da2ecfc35faff677c8ba872a80e42255550c7ac5be707f0ebbb"
+    },
+    {
+      "path": "leases.json",
+      "sha256": "292233b60a51630bb0c4792afc04ea57750146cd448aedd4782627b758e23476"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "capital_daily.csv",
+      "sha256": "f0b2c654b9774f549f6cfa2519cdcd7b24f2ee5ad2b758b319349550fbfc9504"
+    },
+    {
+      "path": "control_sample.csv",
+      "sha256": "8c51166d312eb0854160765892fe1d5350f373916072f78b41bd905536a29458"
+    },
+    {
+      "path": "control_test_results.csv",
+      "sha256": "879ab3c02493bbc78d96aa585d9eac578ed08baa7c9e6c7e9d8481c141db17ee"
+    },
+    {
+      "path": "controls_workpaper.md",
+      "sha256": "2d93979fbc448c0fec268acf676c5adf24ec5301f98e1498a0146f6059916704"
+    },
+    {
+      "path": "covenant_compliance.csv",
+      "sha256": "1bda87a105e740f6bf713ddab51e42627f687fd312fb8f8db5251bfb551a99fc"
+    },
+    {
+      "path": "daily_exception_log.csv",
+      "sha256": "9b94207834f5826754501ac5f379a78b92cc11a38fef720888c49ab99fc7ab41"
+    },
+    {
+      "path": "evidence_integrity.csv",
+      "sha256": "25dd50ef7d48d1506f3533811ddfa75097777a78b8b95467e22ab6f1f647cbb9"
+    },
+    {
+      "path": "findings.csv",
+      "sha256": "4b6755fcf23a47a689aaf44fd9b02c57ab24ac07f335eb1dcdb795435e48899d"
+    },
+    {
+      "path": "haircuts.csv",
+      "sha256": "562121c15ee64a6b9a2dbb24bc87ce1a14a919687ad583bdaf03c766f8513c55"
+    },
+    {
+      "path": "lease_journals.csv",
+      "sha256": "c7bb05ac76af2b401b934ced9f71252258cf0e47099995fbf64df64a63156525"
+    },
+    {
+      "path": "lease_schedule.csv",
+      "sha256": "a2b61471a68bf68fe9caf2b2b3f04a95854354372a163cc966bc0a04557709da"
+    },
+    {
+      "path": "reconciliations.csv",
+      "sha256": "9f2cd199d68ab42c609fc3e04aedeec152b3860bdc0c493ccc85a06b5c3b9a63"
+    },
+    {
+      "path": "reserve_daily.csv",
+      "sha256": "9c5fc03b7d7232ff6db32943cbbf2471405556c464a1bfc28bd0df160509efbc"
+    },
+    {
+      "path": "reserve_detail.csv",
+      "sha256": "db164d8d247e48154531aa849c1a6cfb4237745c68793ffa3bd450e522b9fc59"
+    },
+    {
+      "path": "run_summary.json",
+      "sha256": "2bba53a0a22aef06a53bfd10b23847c6ea48771ddbb53851425aa60ad63539e0"
+    },
+    {
+      "path": "sample_test_results.csv",
+      "sha256": "b2933769f7eeac9c8a33b8b02d9c542c3f18b8192d15e202383ac3fc4f9318f2"
+    },
+    {
+      "path": "variance_controls.csv",
+      "sha256": "468b170c96aff060d85e7c54d93233b0f8f90a9850424853ffc45ffdc2a007e5"
+    },
+    {
+      "path": "vendor_reviews.csv",
+      "sha256": "33a3527fc85e0d113507da9fdd3babb0559e2e969a1146f3ead114543c1a437a"
+    },
+    {
+      "path": "workbook_inputs.json",
+      "sha256": "5fa388bc736c0b2b8a6da288f3f0ace64c55637d8af9f8c6740a2ebe645b0b85"
+    }
+  ]
+}

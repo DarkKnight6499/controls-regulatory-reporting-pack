@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "controls-regulatory-reporting-pack"
+version = "0.1.0"
+description = "Offline synthetic ledgers, regulatory calculations and control workpapers"
+requires-python = ">=3.10"
+authors = [{name = "Yazad Madan"}]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["python"]

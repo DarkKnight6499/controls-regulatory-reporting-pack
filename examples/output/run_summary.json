@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "seed": 8421533,
+  "as_of": "2026-10-30",
+  "reserve_days": 10,
+  "lease_periods": 54,
+  "lease_count": 3,
+  "population_size": 43,
+  "sample_size": 12,
+  "sample_failures": 5,
+  "exceptions": 26,
+  "failed_reconciliations": 0
+}

@@ -1,0 +1,20 @@
+# Source verification
+
+Retrieved 2026-11-08 using the web tool. No public financial observations are shipped. All balances, contracts, evidence and vendor responses are synthetic. URL fetches are separate from the library.
+
+| ID | Primary document and URL | Sections read | Verification and implemented scope |
+| --- | --- | --- | --- |
+| R1 | [eCFR, 17 CFR 240.15c3-3a, Exhibit A](https://www.ecfr.gov/current/title-17/section-240.15c3-3a) | Items 1 through 16; Notes A through E | Reached. Implements items 1 through 12 for the restricted input population, Note A, loan and fail valuation adjustments in C/D, cash-account exclusions and 1% reduction in E(3), related-party exclusion in E(4). Items 13 through 15 are explicitly unsupported and zero. |
+| R2 | [eCFR, 17 CFR 240.15c3-1](https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.15c3-1) | (a)(1)(i), (a)(2)(i), (c)(1)(vii), (c)(2)(iv)(A), (c)(2)(vi)(D)(1), (J), (M) | Reached. Basic aggregate-indebtedness method: 15 times net capital for an established carrying broker; $250,000 floor. Fixed assets and prepaid items deducted. Registered qualifying money funds: 2%; unhedged long listed equities: 15%. Material issuer concentration is rejected rather than modeled. Reserve-related indebtedness exclusion is capped by required and deposited funds. |
+| R3 | [eCFR, 17 CFR 240.15c3-3](https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.15c3-3) | (e), reserve account context | Reached. Deposit shortfall is a comparison to supplied eligible deposits. Frequency, deposit deadlines, bank eligibility and custody requirements are not implemented. Daily runs are internal controls. |
+| A1 | [FASB In Focus, ASU 2016-02, revised June 2020](https://storage.fasb.org/FIF%20ASU%202016-02%20Leases%20%28Topic%20842%29%20%28Rev%206-3-20%29.pdf) | Overview and lessee model summary | Reached. Confirms balance-sheet recognition and the dual lessee model. |
+| A2 | [FASB ASU 2016-02, Section A](https://storage.fasb.org/ASU%202016-02_Section%20A.pdf) | 842-20-25-5, 25-6, 25-8, 30-1, 30-5, 35-1 through 35-4, 35-7, 35-8; 842-10-25-8 through 25-13 | Reached. Present value liability, adjusted ROU asset, separate finance expense, single operating expense, and consideration-only modification using revised rate and corresponding ROU adjustment. Printed pages 32 through 33 and 102 through 105. No termination or classification change is modeled. |
+| C1 | [eCFR, 17 CFR 240.12b-2](https://www.ecfr.gov/current/title-17/chapter-II/part-240/section-240.12b-2) | Definitions of material weakness and significant deficiency | Reached. Definitions checked against primary text. Used for terminology only. Synthetic numeric screening is internal policy and requires judgment. |
+
+## Evidence and boundaries
+
+The eCFR pages rendered as primary HTML and displayed Title 17 as current through 2026-11-05. The FASB documents were read through the web tool's PDF text extraction, including the equation and paragraph context. No local public download was possible or attempted in the offline shell. The original Exhibit A URL under chapter-II failed once; the shorter URL above resolved successfully. The FASB standards landing page failed; direct FASB PDF links succeeded.
+
+Verification covers the cited text, not an opinion on compliance or the complete current Codification. Later amendments to Topic 842 were not exhaustively verified. The original ASU is historical primary guidance. Current GAAP completeness is unverified. Alternative net capital, monthly reserve uplift and daily-frequency eligibility are not implemented. No external rule is asserted for covenant thresholds, sample size, deficiency screening, vendor scoring or review intervals. Those are fictional internal policies.
+
+`scripts/fetch_sources.py` is the later network path. It saves primary documents and a manifest with retrieval time, document, section, URL, content type, status and SHA-256. A failed fetch must remain a failed manifest entry. It must never replace a synthetic ledger with fabricated public data.

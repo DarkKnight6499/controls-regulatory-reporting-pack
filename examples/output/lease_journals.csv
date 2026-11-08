@@ -1,0 +1,314 @@
+journal_id,lease_id,period,event,account,debit,credit
+OFFICE-01-000-commencement,OFFICE-01,0,commencement,ROU asset,238072.5963726137,0
+OFFICE-01-000-commencement,OFFICE-01,0,commencement,Lease liability,0,236572.5963726137
+OFFICE-01-000-commencement,OFFICE-01,0,commencement,Cash,0,1500.0
+OFFICE-01-001-accrual,OFFICE-01,1,accrual,Operating lease expense,10562.5,0
+OFFICE-01-001-accrual,OFFICE-01,1,accrual,Lease liability,0,1182.8629818630686
+OFFICE-01-001-accrual,OFFICE-01,1,accrual,ROU asset,0,9379.637018136931
+OFFICE-01-001-payment,OFFICE-01,1,payment,Lease liability,10000.0,0
+OFFICE-01-001-payment,OFFICE-01,1,payment,Cash,0,10000.0
+OFFICE-01-002-accrual,OFFICE-01,2,accrual,Operating lease expense,10562.5,0
+OFFICE-01-002-accrual,OFFICE-01,2,accrual,Lease liability,0,1138.7772967723838
+OFFICE-01-002-accrual,OFFICE-01,2,accrual,ROU asset,0,9423.722703227617
+OFFICE-01-002-payment,OFFICE-01,2,payment,Lease liability,10000.0,0
+OFFICE-01-002-payment,OFFICE-01,2,payment,Cash,0,10000.0
+OFFICE-01-003-accrual,OFFICE-01,3,accrual,Operating lease expense,10562.5,0
+OFFICE-01-003-accrual,OFFICE-01,3,accrual,Lease liability,0,1094.4711832562457
+OFFICE-01-003-accrual,OFFICE-01,3,accrual,ROU asset,0,9468.028816743754
+OFFICE-01-003-payment,OFFICE-01,3,payment,Lease liability,10000.0,0
+OFFICE-01-003-payment,OFFICE-01,3,payment,Cash,0,10000.0
+OFFICE-01-004-accrual,OFFICE-01,4,accrual,Operating lease expense,10562.5,0
+OFFICE-01-004-accrual,OFFICE-01,4,accrual,Lease liability,0,1049.943539172527
+OFFICE-01-004-accrual,OFFICE-01,4,accrual,ROU asset,0,9512.556460827473
+OFFICE-01-004-payment,OFFICE-01,4,payment,Lease liability,10000.0,0
+OFFICE-01-004-payment,OFFICE-01,4,payment,Cash,0,10000.0
+OFFICE-01-005-accrual,OFFICE-01,5,accrual,Operating lease expense,10562.5,0
+OFFICE-01-005-accrual,OFFICE-01,5,accrual,Lease liability,0,1005.1932568683897
+OFFICE-01-005-accrual,OFFICE-01,5,accrual,ROU asset,0,9557.30674313161
+OFFICE-01-005-payment,OFFICE-01,5,payment,Lease liability,10000.0,0
+OFFICE-01-005-payment,OFFICE-01,5,payment,Cash,0,10000.0
+OFFICE-01-006-accrual,OFFICE-01,6,accrual,Operating lease expense,10562.5,0
+OFFICE-01-006-accrual,OFFICE-01,6,accrual,Lease liability,0,960.2192231527316
+OFFICE-01-006-accrual,OFFICE-01,6,accrual,ROU asset,0,9602.280776847268
+OFFICE-01-006-payment,OFFICE-01,6,payment,Lease liability,10000.0,0
+OFFICE-01-006-payment,OFFICE-01,6,payment,Cash,0,10000.0
+OFFICE-01-007-accrual,OFFICE-01,7,accrual,Operating lease expense,10562.5,0
+OFFICE-01-007-accrual,OFFICE-01,7,accrual,Lease liability,0,915.0203192684952
+OFFICE-01-007-accrual,OFFICE-01,7,accrual,ROU asset,0,9647.479680731505
+OFFICE-01-007-payment,OFFICE-01,7,payment,Lease liability,10000.0,0
+OFFICE-01-007-payment,OFFICE-01,7,payment,Cash,0,10000.0
+OFFICE-01-008-accrual,OFFICE-01,8,accrual,Operating lease expense,10562.5,0
+OFFICE-01-008-accrual,OFFICE-01,8,accrual,Lease liability,0,869.5954208648377
+OFFICE-01-008-accrual,OFFICE-01,8,accrual,ROU asset,0,9692.904579135162
+OFFICE-01-008-payment,OFFICE-01,8,payment,Lease liability,10000.0,0
+OFFICE-01-008-payment,OFFICE-01,8,payment,Cash,0,10000.0
+OFFICE-01-009-accrual,OFFICE-01,9,accrual,Operating lease expense,10562.5,0
+OFFICE-01-009-accrual,OFFICE-01,9,accrual,Lease liability,0,823.9433979691619
+OFFICE-01-009-accrual,OFFICE-01,9,accrual,ROU asset,0,9738.556602030838
+OFFICE-01-009-payment,OFFICE-01,9,payment,Lease liability,10000.0,0
+OFFICE-01-009-payment,OFFICE-01,9,payment,Cash,0,10000.0
+OFFICE-01-010-accrual,OFFICE-01,10,accrual,Operating lease expense,10562.5,0
+OFFICE-01-010-accrual,OFFICE-01,10,accrual,Lease liability,0,778.0631149590076
+OFFICE-01-010-accrual,OFFICE-01,10,accrual,ROU asset,0,9784.436885040992
+OFFICE-01-010-payment,OFFICE-01,10,payment,Lease liability,10000.0,0
+OFFICE-01-010-payment,OFFICE-01,10,payment,Cash,0,10000.0
+OFFICE-01-011-accrual,OFFICE-01,11,accrual,Operating lease expense,10562.5,0
+OFFICE-01-011-accrual,OFFICE-01,11,accrual,Lease liability,0,731.9534305338028
+OFFICE-01-011-accrual,OFFICE-01,11,accrual,ROU asset,0,9830.546569466198
+OFFICE-01-011-payment,OFFICE-01,11,payment,Lease liability,10000.0,0
+OFFICE-01-011-payment,OFFICE-01,11,payment,Cash,0,10000.0
+OFFICE-01-012-accrual,OFFICE-01,12,accrual,Operating lease expense,10562.5,0
+OFFICE-01-012-accrual,OFFICE-01,12,accrual,Lease liability,0,685.6131976864717
+OFFICE-01-012-accrual,OFFICE-01,12,accrual,ROU asset,0,9876.88680231353
+OFFICE-01-012-payment,OFFICE-01,12,payment,Lease liability,10000.0,0
+OFFICE-01-012-payment,OFFICE-01,12,payment,Cash,0,10000.0
+OFFICE-01-013-modification,OFFICE-01,13,modification,ROU asset,16501.931341970747,0
+OFFICE-01-013-modification,OFFICE-01,13,modification,Lease liability,0,16501.931341970747
+OFFICE-01-013-accrual,OFFICE-01,13,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-013-accrual,OFFICE-01,13,accrual,Lease liability,0,865.8611044617094
+OFFICE-01-013-accrual,OFFICE-01,13,accrual,ROU asset,0,11196.638895538292
+OFFICE-01-013-payment,OFFICE-01,13,payment,Lease liability,12500.0,0
+OFFICE-01-013-payment,OFFICE-01,13,payment,Cash,0,12500.0
+OFFICE-01-014-accrual,OFFICE-01,14,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-014-accrual,OFFICE-01,14,accrual,Lease liability,0,796.0562710884797
+OFFICE-01-014-accrual,OFFICE-01,14,accrual,ROU asset,0,11266.443728911523
+OFFICE-01-014-payment,OFFICE-01,14,payment,Lease liability,12500.0,0
+OFFICE-01-014-payment,OFFICE-01,14,payment,Cash,0,12500.0
+OFFICE-01-015-accrual,OFFICE-01,15,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-015-accrual,OFFICE-01,15,accrual,Lease liability,0,725.8326087150106
+OFFICE-01-015-accrual,OFFICE-01,15,accrual,ROU asset,0,11336.667391284991
+OFFICE-01-015-payment,OFFICE-01,15,payment,Lease liability,12500.0,0
+OFFICE-01-015-payment,OFFICE-01,15,payment,Cash,0,12500.0
+OFFICE-01-016-accrual,OFFICE-01,16,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-016-accrual,OFFICE-01,16,accrual,Lease liability,0,655.1876043673005
+OFFICE-01-016-accrual,OFFICE-01,16,accrual,ROU asset,0,11407.312395632702
+OFFICE-01-016-payment,OFFICE-01,16,payment,Lease liability,12500.0,0
+OFFICE-01-016-payment,OFFICE-01,16,payment,Cash,0,12500.0
+OFFICE-01-017-accrual,OFFICE-01,17,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-017-accrual,OFFICE-01,17,accrual,Lease liability,0,584.1187299935043
+OFFICE-01-017-accrual,OFFICE-01,17,accrual,ROU asset,0,11478.381270006497
+OFFICE-01-017-payment,OFFICE-01,17,payment,Lease liability,12500.0,0
+OFFICE-01-017-payment,OFFICE-01,17,payment,Cash,0,12500.0
+OFFICE-01-018-accrual,OFFICE-01,18,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-018-accrual,OFFICE-01,18,accrual,Lease liability,0,512.6234423734654
+OFFICE-01-018-accrual,OFFICE-01,18,accrual,ROU asset,0,11549.876557626536
+OFFICE-01-018-payment,OFFICE-01,18,payment,Lease liability,12500.0,0
+OFFICE-01-018-payment,OFFICE-01,18,payment,Cash,0,12500.0
+OFFICE-01-019-accrual,OFFICE-01,19,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-019-accrual,OFFICE-01,19,accrual,Lease liability,0,440.6991830277062
+OFFICE-01-019-accrual,OFFICE-01,19,accrual,ROU asset,0,11621.800816972296
+OFFICE-01-019-payment,OFFICE-01,19,payment,Lease liability,12500.0,0
+OFFICE-01-019-payment,OFFICE-01,19,payment,Cash,0,12500.0
+OFFICE-01-020-accrual,OFFICE-01,20,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-020-accrual,OFFICE-01,20,accrual,Lease liability,0,368.34337812587245
+OFFICE-01-020-accrual,OFFICE-01,20,accrual,ROU asset,0,11694.15662187413
+OFFICE-01-020-payment,OFFICE-01,20,payment,Lease liability,12500.0,0
+OFFICE-01-020-payment,OFFICE-01,20,payment,Cash,0,12500.0
+OFFICE-01-021-accrual,OFFICE-01,21,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-021-accrual,OFFICE-01,21,accrual,Lease liability,0,295.5534383946277
+OFFICE-01-021-accrual,OFFICE-01,21,accrual,ROU asset,0,11766.946561605375
+OFFICE-01-021-payment,OFFICE-01,21,payment,Lease liability,12500.0,0
+OFFICE-01-021-payment,OFFICE-01,21,payment,Cash,0,12500.0
+OFFICE-01-022-accrual,OFFICE-01,22,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-022-accrual,OFFICE-01,22,accrual,Lease liability,0,222.32675902499545
+OFFICE-01-022-accrual,OFFICE-01,22,accrual,ROU asset,0,11840.173240975006
+OFFICE-01-022-payment,OFFICE-01,22,payment,Lease liability,12500.0,0
+OFFICE-01-022-payment,OFFICE-01,22,payment,Cash,0,12500.0
+OFFICE-01-023-accrual,OFFICE-01,23,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-023-accrual,OFFICE-01,23,accrual,Lease liability,0,148.66071957914542
+OFFICE-01-023-accrual,OFFICE-01,23,accrual,ROU asset,0,11913.839280420856
+OFFICE-01-023-payment,OFFICE-01,23,payment,Lease liability,12500.0,0
+OFFICE-01-023-payment,OFFICE-01,23,payment,Cash,0,12500.0
+OFFICE-01-024-accrual,OFFICE-01,24,accrual,Operating lease expense,12062.500000000002,0
+OFFICE-01-024-accrual,OFFICE-01,24,accrual,Lease liability,0,74.55268389662031
+OFFICE-01-024-accrual,OFFICE-01,24,accrual,ROU asset,0,11987.947316103382
+OFFICE-01-024-payment,OFFICE-01,24,payment,Lease liability,12500.0,0
+OFFICE-01-024-payment,OFFICE-01,24,payment,Cash,0,12500.0
+EQUIP-01-000-commencement,EQUIP-01,0,commencement,ROU asset,87669.31799767198,0
+EQUIP-01-000-commencement,EQUIP-01,0,commencement,Lease liability,0,86669.31799767198
+EQUIP-01-000-commencement,EQUIP-01,0,commencement,Cash,0,1000.0
+EQUIP-01-001-accrual,EQUIP-01,1,accrual,Interest expense,346.6772719906879,0
+EQUIP-01-001-accrual,EQUIP-01,1,accrual,Lease liability,0,346.6772719906879
+EQUIP-01-001-amortization,EQUIP-01,1,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-001-amortization,EQUIP-01,1,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-001-payment,EQUIP-01,1,payment,Lease liability,5000.0,0
+EQUIP-01-001-payment,EQUIP-01,1,payment,Cash,0,5000.0
+EQUIP-01-002-accrual,EQUIP-01,2,accrual,Interest expense,328.06398107865067,0
+EQUIP-01-002-accrual,EQUIP-01,2,accrual,Lease liability,0,328.06398107865067
+EQUIP-01-002-amortization,EQUIP-01,2,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-002-amortization,EQUIP-01,2,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-002-payment,EQUIP-01,2,payment,Lease liability,5000.0,0
+EQUIP-01-002-payment,EQUIP-01,2,payment,Cash,0,5000.0
+EQUIP-01-003-accrual,EQUIP-01,3,accrual,Interest expense,309.3762370029653,0
+EQUIP-01-003-accrual,EQUIP-01,3,accrual,Lease liability,0,309.3762370029653
+EQUIP-01-003-amortization,EQUIP-01,3,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-003-amortization,EQUIP-01,3,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-003-payment,EQUIP-01,3,payment,Lease liability,5000.0,0
+EQUIP-01-003-payment,EQUIP-01,3,payment,Cash,0,5000.0
+EQUIP-01-004-accrual,EQUIP-01,4,accrual,Interest expense,290.61374195097716,0
+EQUIP-01-004-accrual,EQUIP-01,4,accrual,Lease liability,0,290.61374195097716
+EQUIP-01-004-amortization,EQUIP-01,4,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-004-amortization,EQUIP-01,4,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-004-payment,EQUIP-01,4,payment,Lease liability,5000.0,0
+EQUIP-01-004-payment,EQUIP-01,4,payment,Cash,0,5000.0
+EQUIP-01-005-accrual,EQUIP-01,5,accrual,Interest expense,271.776196918781,0
+EQUIP-01-005-accrual,EQUIP-01,5,accrual,Lease liability,0,271.776196918781
+EQUIP-01-005-amortization,EQUIP-01,5,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-005-amortization,EQUIP-01,5,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-005-payment,EQUIP-01,5,payment,Lease liability,5000.0,0
+EQUIP-01-005-payment,EQUIP-01,5,payment,Cash,0,5000.0
+EQUIP-01-006-accrual,EQUIP-01,6,accrual,Interest expense,252.86330170645618,0
+EQUIP-01-006-accrual,EQUIP-01,6,accrual,Lease liability,0,252.86330170645618
+EQUIP-01-006-amortization,EQUIP-01,6,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-006-amortization,EQUIP-01,6,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-006-payment,EQUIP-01,6,payment,Lease liability,5000.0,0
+EQUIP-01-006-payment,EQUIP-01,6,payment,Cash,0,5000.0
+EQUIP-01-007-accrual,EQUIP-01,7,accrual,Interest expense,233.874754913282,0
+EQUIP-01-007-accrual,EQUIP-01,7,accrual,Lease liability,0,233.874754913282
+EQUIP-01-007-amortization,EQUIP-01,7,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-007-amortization,EQUIP-01,7,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-007-payment,EQUIP-01,7,payment,Lease liability,5000.0,0
+EQUIP-01-007-payment,EQUIP-01,7,payment,Cash,0,5000.0
+EQUIP-01-008-accrual,EQUIP-01,8,accrual,Interest expense,214.81025393293513,0
+EQUIP-01-008-accrual,EQUIP-01,8,accrual,Lease liability,0,214.81025393293513
+EQUIP-01-008-amortization,EQUIP-01,8,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-008-amortization,EQUIP-01,8,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-008-payment,EQUIP-01,8,payment,Lease liability,5000.0,0
+EQUIP-01-008-payment,EQUIP-01,8,payment,Cash,0,5000.0
+EQUIP-01-009-accrual,EQUIP-01,9,accrual,Interest expense,195.66949494866688,0
+EQUIP-01-009-accrual,EQUIP-01,9,accrual,Lease liability,0,195.66949494866688
+EQUIP-01-009-amortization,EQUIP-01,9,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-009-amortization,EQUIP-01,9,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-009-payment,EQUIP-01,9,payment,Lease liability,5000.0,0
+EQUIP-01-009-payment,EQUIP-01,9,payment,Cash,0,5000.0
+EQUIP-01-010-accrual,EQUIP-01,10,accrual,Interest expense,176.45217292846155,0
+EQUIP-01-010-accrual,EQUIP-01,10,accrual,Lease liability,0,176.45217292846155
+EQUIP-01-010-amortization,EQUIP-01,10,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-010-amortization,EQUIP-01,10,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-010-payment,EQUIP-01,10,payment,Lease liability,5000.0,0
+EQUIP-01-010-payment,EQUIP-01,10,payment,Cash,0,5000.0
+EQUIP-01-011-accrual,EQUIP-01,11,accrual,Interest expense,157.15798162017538,0
+EQUIP-01-011-accrual,EQUIP-01,11,accrual,Lease liability,0,157.15798162017538
+EQUIP-01-011-amortization,EQUIP-01,11,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-011-amortization,EQUIP-01,11,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-011-payment,EQUIP-01,11,payment,Lease liability,5000.0,0
+EQUIP-01-011-payment,EQUIP-01,11,payment,Cash,0,5000.0
+EQUIP-01-012-accrual,EQUIP-01,12,accrual,Interest expense,137.7866135466561,0
+EQUIP-01-012-accrual,EQUIP-01,12,accrual,Lease liability,0,137.7866135466561
+EQUIP-01-012-amortization,EQUIP-01,12,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-012-amortization,EQUIP-01,12,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-012-payment,EQUIP-01,12,payment,Lease liability,5000.0,0
+EQUIP-01-012-payment,EQUIP-01,12,payment,Cash,0,5000.0
+EQUIP-01-013-accrual,EQUIP-01,13,accrual,Interest expense,118.3377600008427,0
+EQUIP-01-013-accrual,EQUIP-01,13,accrual,Lease liability,0,118.3377600008427
+EQUIP-01-013-amortization,EQUIP-01,13,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-013-amortization,EQUIP-01,13,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-013-payment,EQUIP-01,13,payment,Lease liability,5000.0,0
+EQUIP-01-013-payment,EQUIP-01,13,payment,Cash,0,5000.0
+EQUIP-01-014-accrual,EQUIP-01,14,accrual,Interest expense,98.81111104084609,0
+EQUIP-01-014-accrual,EQUIP-01,14,accrual,Lease liability,0,98.81111104084609
+EQUIP-01-014-amortization,EQUIP-01,14,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-014-amortization,EQUIP-01,14,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-014-payment,EQUIP-01,14,payment,Lease liability,5000.0,0
+EQUIP-01-014-payment,EQUIP-01,14,payment,Cash,0,5000.0
+EQUIP-01-015-accrual,EQUIP-01,15,accrual,Interest expense,79.20635548500947,0
+EQUIP-01-015-accrual,EQUIP-01,15,accrual,Lease liability,0,79.20635548500947
+EQUIP-01-015-amortization,EQUIP-01,15,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-015-amortization,EQUIP-01,15,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-015-payment,EQUIP-01,15,payment,Lease liability,5000.0,0
+EQUIP-01-015-payment,EQUIP-01,15,payment,Cash,0,5000.0
+EQUIP-01-016-accrual,EQUIP-01,16,accrual,Interest expense,59.523180906949506,0
+EQUIP-01-016-accrual,EQUIP-01,16,accrual,Lease liability,0,59.523180906949506
+EQUIP-01-016-amortization,EQUIP-01,16,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-016-amortization,EQUIP-01,16,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-016-payment,EQUIP-01,16,payment,Lease liability,5000.0,0
+EQUIP-01-016-payment,EQUIP-01,16,payment,Cash,0,5000.0
+EQUIP-01-017-accrual,EQUIP-01,17,accrual,Interest expense,39.7612736305773,0
+EQUIP-01-017-accrual,EQUIP-01,17,accrual,Lease liability,0,39.7612736305773
+EQUIP-01-017-amortization,EQUIP-01,17,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-017-amortization,EQUIP-01,17,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-017-payment,EQUIP-01,17,payment,Lease liability,5000.0,0
+EQUIP-01-017-payment,EQUIP-01,17,payment,Cash,0,5000.0
+EQUIP-01-018-accrual,EQUIP-01,18,accrual,Interest expense,19.92031872509961,0
+EQUIP-01-018-accrual,EQUIP-01,18,accrual,Lease liability,0,19.92031872509961
+EQUIP-01-018-amortization,EQUIP-01,18,amortization,ROU amortization expense,4870.517666537333,0
+EQUIP-01-018-amortization,EQUIP-01,18,amortization,ROU asset,0,4870.517666537333
+EQUIP-01-018-payment,EQUIP-01,18,payment,Lease liability,5000.0,0
+EQUIP-01-018-payment,EQUIP-01,18,payment,Cash,0,5000.0
+SYSTEM-01-000-commencement,SYSTEM-01,0,commencement,ROU asset,35807.71848747103,0
+SYSTEM-01-000-commencement,SYSTEM-01,0,commencement,Lease liability,0,35307.71848747103
+SYSTEM-01-000-commencement,SYSTEM-01,0,commencement,Cash,0,500.0
+SYSTEM-01-001-accrual,SYSTEM-01,1,accrual,Interest expense,105.92315546241309,0
+SYSTEM-01-001-accrual,SYSTEM-01,1,accrual,Lease liability,0,105.92315546241309
+SYSTEM-01-001-amortization,SYSTEM-01,1,amortization,ROU amortization expense,2983.9765406225856,0
+SYSTEM-01-001-amortization,SYSTEM-01,1,amortization,ROU asset,0,2983.9765406225856
+SYSTEM-01-001-payment,SYSTEM-01,1,payment,Lease liability,3000.0,0
+SYSTEM-01-001-payment,SYSTEM-01,1,payment,Cash,0,3000.0
+SYSTEM-01-002-accrual,SYSTEM-01,2,accrual,Interest expense,97.24092492880033,0
+SYSTEM-01-002-accrual,SYSTEM-01,2,accrual,Lease liability,0,97.24092492880033
+SYSTEM-01-002-amortization,SYSTEM-01,2,amortization,ROU amortization expense,2983.9765406225856,0
+SYSTEM-01-002-amortization,SYSTEM-01,2,amortization,ROU asset,0,2983.9765406225856
+SYSTEM-01-002-payment,SYSTEM-01,2,payment,Lease liability,3000.0,0
+SYSTEM-01-002-payment,SYSTEM-01,2,payment,Cash,0,3000.0
+SYSTEM-01-003-accrual,SYSTEM-01,3,accrual,Interest expense,88.53264770358673,0
+SYSTEM-01-003-accrual,SYSTEM-01,3,accrual,Lease liability,0,88.53264770358673
+SYSTEM-01-003-amortization,SYSTEM-01,3,amortization,ROU amortization expense,2983.9765406225856,0
+SYSTEM-01-003-amortization,SYSTEM-01,3,amortization,ROU asset,0,2983.9765406225856
+SYSTEM-01-003-payment,SYSTEM-01,3,payment,Lease liability,3000.0,0
+SYSTEM-01-003-payment,SYSTEM-01,3,payment,Cash,0,3000.0
+SYSTEM-01-004-accrual,SYSTEM-01,4,accrual,Interest expense,79.7982456466975,0
+SYSTEM-01-004-accrual,SYSTEM-01,4,accrual,Lease liability,0,79.7982456466975
+SYSTEM-01-004-amortization,SYSTEM-01,4,amortization,ROU amortization expense,2983.9765406225856,0
+SYSTEM-01-004-amortization,SYSTEM-01,4,amortization,ROU asset,0,2983.9765406225856
+SYSTEM-01-004-payment,SYSTEM-01,4,payment,Lease liability,3000.0,0
+SYSTEM-01-004-payment,SYSTEM-01,4,payment,Cash,0,3000.0
+SYSTEM-01-005-accrual,SYSTEM-01,5,accrual,Interest expense,71.03764038363758,0
+SYSTEM-01-005-accrual,SYSTEM-01,5,accrual,Lease liability,0,71.03764038363758
+SYSTEM-01-005-amortization,SYSTEM-01,5,amortization,ROU amortization expense,2983.9765406225856,0
+SYSTEM-01-005-amortization,SYSTEM-01,5,amortization,ROU asset,0,2983.9765406225856
+SYSTEM-01-005-payment,SYSTEM-01,5,payment,Lease liability,3000.0,0
+SYSTEM-01-005-payment,SYSTEM-01,5,payment,Cash,0,3000.0
+SYSTEM-01-006-accrual,SYSTEM-01,6,accrual,Interest expense,62.250753304788496,0
+SYSTEM-01-006-accrual,SYSTEM-01,6,accrual,Lease liability,0,62.250753304788496
+SYSTEM-01-006-amortization,SYSTEM-01,6,amortization,ROU amortization expense,2983.9765406225856,0
+SYSTEM-01-006-amortization,SYSTEM-01,6,amortization,ROU asset,0,2983.9765406225856
+SYSTEM-01-006-payment,SYSTEM-01,6,payment,Lease liability,3000.0,0
+SYSTEM-01-006-payment,SYSTEM-01,6,payment,Cash,0,3000.0
+SYSTEM-01-007-modification,SYSTEM-01,7,modification,ROU asset,1713.2285452380893,0
+SYSTEM-01-007-modification,SYSTEM-01,7,modification,Lease liability,0,1713.2285452380893
+SYSTEM-01-007-accrual,SYSTEM-01,7,accrual,Interest expense,78.10292160055617,0
+SYSTEM-01-007-accrual,SYSTEM-01,7,accrual,Lease liability,0,78.10292160055617
+SYSTEM-01-007-amortization,SYSTEM-01,7,amortization,ROU amortization expense,3269.5146314956014,0
+SYSTEM-01-007-amortization,SYSTEM-01,7,amortization,ROU asset,0,3269.5146314956014
+SYSTEM-01-007-payment,SYSTEM-01,7,payment,Lease liability,3300.0,0
+SYSTEM-01-007-payment,SYSTEM-01,7,payment,Cash,0,3300.0
+SYSTEM-01-008-accrual,SYSTEM-01,8,accrual,Interest expense,65.2153332869584,0
+SYSTEM-01-008-accrual,SYSTEM-01,8,accrual,Lease liability,0,65.2153332869584
+SYSTEM-01-008-amortization,SYSTEM-01,8,amortization,ROU amortization expense,3269.5146314956014,0
+SYSTEM-01-008-amortization,SYSTEM-01,8,amortization,ROU asset,0,3269.5146314956014
+SYSTEM-01-008-payment,SYSTEM-01,8,payment,Lease liability,3300.0,0
+SYSTEM-01-008-payment,SYSTEM-01,8,payment,Cash,0,3300.0
+SYSTEM-01-009-accrual,SYSTEM-01,9,accrual,Interest expense,52.27619462010623,0
+SYSTEM-01-009-accrual,SYSTEM-01,9,accrual,Lease liability,0,52.27619462010623
+SYSTEM-01-009-amortization,SYSTEM-01,9,amortization,ROU amortization expense,3269.5146314956014,0
+SYSTEM-01-009-amortization,SYSTEM-01,9,amortization,ROU asset,0,3269.5146314956014
+SYSTEM-01-009-payment,SYSTEM-01,9,payment,Lease liability,3300.0,0
+SYSTEM-01-009-payment,SYSTEM-01,9,payment,Cash,0,3300.0
+SYSTEM-01-010-accrual,SYSTEM-01,10,accrual,Interest expense,39.28529939858666,0
+SYSTEM-01-010-accrual,SYSTEM-01,10,accrual,Lease liability,0,39.28529939858666
+SYSTEM-01-010-amortization,SYSTEM-01,10,amortization,ROU amortization expense,3269.5146314956014,0
+SYSTEM-01-010-amortization,SYSTEM-01,10,amortization,ROU asset,0,3269.5146314956014
+SYSTEM-01-010-payment,SYSTEM-01,10,payment,Lease liability,3300.0,0
+SYSTEM-01-010-payment,SYSTEM-01,10,payment,Cash,0,3300.0
+SYSTEM-01-011-accrual,SYSTEM-01,11,accrual,Interest expense,26.242440596181005,0
+SYSTEM-01-011-accrual,SYSTEM-01,11,accrual,Lease liability,0,26.242440596181005
+SYSTEM-01-011-amortization,SYSTEM-01,11,amortization,ROU amortization expense,3269.5146314956014,0
+SYSTEM-01-011-amortization,SYSTEM-01,11,amortization,ROU asset,0,3269.5146314956014
+SYSTEM-01-011-payment,SYSTEM-01,11,payment,Lease liability,3300.0,0
+SYSTEM-01-011-payment,SYSTEM-01,11,payment,Cash,0,3300.0
+SYSTEM-01-012-accrual,SYSTEM-01,12,accrual,Interest expense,13.147410358565729,0
+SYSTEM-01-012-accrual,SYSTEM-01,12,accrual,Lease liability,0,13.147410358565729
+SYSTEM-01-012-amortization,SYSTEM-01,12,amortization,ROU amortization expense,3269.5146314956014,0
+SYSTEM-01-012-amortization,SYSTEM-01,12,amortization,ROU asset,0,3269.5146314956014
+SYSTEM-01-012-payment,SYSTEM-01,12,payment,Lease liability,3300.0,0
+SYSTEM-01-012-payment,SYSTEM-01,12,payment,Cash,0,3300.0

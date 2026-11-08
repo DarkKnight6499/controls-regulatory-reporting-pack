@@ -1,0 +1,44 @@
+evidence_id,control_id,date,result,exceptions,deficiency_screen,requires_judgment
+E001,RESERVE,2026-10-19,PASS,,No exception,False
+E002,CAPITAL,2026-10-19,PASS,,No exception,False
+E003,LEASE,2026-10-19,PASS,,No exception,False
+E004,VENDOR,2026-10-19,PASS,,No exception,False
+E005,RESERVE,2026-10-20,PASS,,No exception,False
+E006,CAPITAL,2026-10-20,PASS,,No exception,False
+E007,LEASE,2026-10-20,FAIL,Review past due,Control deficiency: judgment required,True
+E008,VENDOR,2026-10-20,PASS,,No exception,False
+E009,RESERVE,2026-10-21,PASS,,No exception,False
+E010,CAPITAL,2026-10-21,PASS,,No exception,False
+E011,LEASE,2026-10-21,FAIL,Reviewer is not independent,Control deficiency: judgment required,True
+E012,VENDOR,2026-10-21,PASS,,No exception,False
+E013,RESERVE,2026-10-22,FAIL,Missing evidence artifact or hash; Missing evidence reference,Control deficiency: judgment required,True
+E014,CAPITAL,2026-10-22,FAIL,Review past due,Control deficiency: judgment required,True
+E015,LEASE,2026-10-22,PASS,,No exception,False
+E016,VENDOR,2026-10-22,PASS,,No exception,False
+E017,RESERVE,2026-10-23,PASS,,No exception,False
+E018,CAPITAL,2026-10-23,PASS,,No exception,False
+E019,LEASE,2026-10-23,PASS,,No exception,False
+E020,VENDOR,2026-10-23,PASS,,No exception,False
+E021,RESERVE,2026-10-26,FAIL,Review past due,Potential material weakness: judgment required,True
+E022,CAPITAL,2026-10-26,FAIL,Reviewer is not independent,Control deficiency: judgment required,True
+E023,LEASE,2026-10-26,PASS,,No exception,False
+E024,VENDOR,2026-10-26,PASS,,No exception,False
+E025,RESERVE,2026-10-27,PASS,,No exception,False
+E026,CAPITAL,2026-10-27,FAIL,Missing evidence artifact or hash; Missing evidence reference,Control deficiency: judgment required,True
+E027,LEASE,2026-10-27,PASS,,No exception,False
+E028,VENDOR,2026-10-27,FAIL,Review past due,Control deficiency: judgment required,True
+E029,RESERVE,2026-10-28,PASS,,No exception,False
+E030,CAPITAL,2026-10-28,PASS,,No exception,False
+E031,LEASE,2026-10-28,PASS,,No exception,False
+E032,VENDOR,2026-10-28,PASS,,No exception,False
+E033,RESERVE,2026-10-29,FAIL,Reviewer is not independent,Potential material weakness: judgment required,True
+E034,CAPITAL,2026-10-29,PASS,,No exception,False
+E035,LEASE,2026-10-29,FAIL,Review past due,Control deficiency: judgment required,True
+E036,VENDOR,2026-10-29,PASS,,No exception,False
+E037,RESERVE,2026-10-30,PASS,,No exception,False
+E038,CAPITAL,2026-10-30,PASS,,No exception,False
+E039,LEASE,2026-10-30,FAIL,Missing evidence artifact or hash; Missing evidence reference,Potential material weakness: judgment required,True
+E040,VENDOR,2026-10-30,PASS,,No exception,False
+E041,COV-ALPHA,2026-10-30,PASS,,No exception,False
+E042,COV-BETA,2026-10-30,FAIL,Review past due,Potential material weakness: judgment required,True
+E043,COV-GAMMA,2026-10-30,PASS,,No exception,False

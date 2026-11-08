@@ -1,0 +1,71 @@
+position_id,date,issuer,asset_class,market_value,side
+P-2026-10-19-0,2026-10-19,Issuer-0,listed_equity,48544,long
+P-2026-10-19-1,2026-10-19,Issuer-1,listed_equity,48392,long
+P-2026-10-19-2,2026-10-19,Issuer-2,listed_equity,51470,long
+P-2026-10-19-3,2026-10-19,Issuer-3,listed_equity,51600,long
+P-2026-10-19-4,2026-10-19,Issuer-4,listed_equity,51283,long
+P-2026-10-19-5,2026-10-19,Issuer-5,listed_equity,50186,long
+P-2026-10-19-fund,2026-10-19,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-20-0,2026-10-20,Issuer-0,listed_equity,48636,long
+P-2026-10-20-1,2026-10-20,Issuer-1,listed_equity,52000,long
+P-2026-10-20-2,2026-10-20,Issuer-2,listed_equity,51015,long
+P-2026-10-20-3,2026-10-20,Issuer-3,listed_equity,49350,long
+P-2026-10-20-4,2026-10-20,Issuer-4,listed_equity,48577,long
+P-2026-10-20-5,2026-10-20,Issuer-5,listed_equity,49333,long
+P-2026-10-20-fund,2026-10-20,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-21-0,2026-10-21,Issuer-0,listed_equity,51025,long
+P-2026-10-21-1,2026-10-21,Issuer-1,listed_equity,51656,long
+P-2026-10-21-2,2026-10-21,Issuer-2,listed_equity,48445,long
+P-2026-10-21-3,2026-10-21,Issuer-3,listed_equity,51061,long
+P-2026-10-21-4,2026-10-21,Issuer-4,listed_equity,50698,long
+P-2026-10-21-5,2026-10-21,Issuer-5,listed_equity,51629,long
+P-2026-10-21-fund,2026-10-21,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-22-0,2026-10-22,Issuer-0,listed_equity,48437,long
+P-2026-10-22-1,2026-10-22,Issuer-1,listed_equity,49300,long
+P-2026-10-22-2,2026-10-22,Issuer-2,listed_equity,51312,long
+P-2026-10-22-3,2026-10-22,Issuer-3,listed_equity,48050,long
+P-2026-10-22-4,2026-10-22,Issuer-4,listed_equity,48199,long
+P-2026-10-22-5,2026-10-22,Issuer-5,listed_equity,48540,long
+P-2026-10-22-fund,2026-10-22,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-23-0,2026-10-23,Issuer-0,listed_equity,50114,long
+P-2026-10-23-1,2026-10-23,Issuer-1,listed_equity,50633,long
+P-2026-10-23-2,2026-10-23,Issuer-2,listed_equity,48366,long
+P-2026-10-23-3,2026-10-23,Issuer-3,listed_equity,49328,long
+P-2026-10-23-4,2026-10-23,Issuer-4,listed_equity,48779,long
+P-2026-10-23-5,2026-10-23,Issuer-5,listed_equity,51295,long
+P-2026-10-23-fund,2026-10-23,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-26-0,2026-10-26,Issuer-0,listed_equity,48807,long
+P-2026-10-26-1,2026-10-26,Issuer-1,listed_equity,48563,long
+P-2026-10-26-2,2026-10-26,Issuer-2,listed_equity,50798,long
+P-2026-10-26-3,2026-10-26,Issuer-3,listed_equity,51507,long
+P-2026-10-26-4,2026-10-26,Issuer-4,listed_equity,51879,long
+P-2026-10-26-5,2026-10-26,Issuer-5,listed_equity,50589,long
+P-2026-10-26-fund,2026-10-26,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-27-0,2026-10-27,Issuer-0,listed_equity,50955,long
+P-2026-10-27-1,2026-10-27,Issuer-1,listed_equity,49025,long
+P-2026-10-27-2,2026-10-27,Issuer-2,listed_equity,48137,long
+P-2026-10-27-3,2026-10-27,Issuer-3,listed_equity,50680,long
+P-2026-10-27-4,2026-10-27,Issuer-4,listed_equity,49098,long
+P-2026-10-27-5,2026-10-27,Issuer-5,listed_equity,48337,long
+P-2026-10-27-fund,2026-10-27,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-28-0,2026-10-28,Issuer-0,listed_equity,48346,long
+P-2026-10-28-1,2026-10-28,Issuer-1,listed_equity,50917,long
+P-2026-10-28-2,2026-10-28,Issuer-2,listed_equity,48477,long
+P-2026-10-28-3,2026-10-28,Issuer-3,listed_equity,49152,long
+P-2026-10-28-4,2026-10-28,Issuer-4,listed_equity,51699,long
+P-2026-10-28-5,2026-10-28,Issuer-5,listed_equity,51418,long
+P-2026-10-28-fund,2026-10-28,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-29-0,2026-10-29,Issuer-0,listed_equity,8521,long
+P-2026-10-29-1,2026-10-29,Issuer-1,listed_equity,8754,long
+P-2026-10-29-2,2026-10-29,Issuer-2,listed_equity,10181,long
+P-2026-10-29-3,2026-10-29,Issuer-3,listed_equity,8043,long
+P-2026-10-29-4,2026-10-29,Issuer-4,listed_equity,9435,long
+P-2026-10-29-5,2026-10-29,Issuer-5,listed_equity,9325,long
+P-2026-10-29-fund,2026-10-29,Money Fund,qualifying_money_fund,100000,long
+P-2026-10-30-0,2026-10-30,Issuer-0,listed_equity,50369,long
+P-2026-10-30-1,2026-10-30,Issuer-1,listed_equity,51626,long
+P-2026-10-30-2,2026-10-30,Issuer-2,listed_equity,49213,long
+P-2026-10-30-3,2026-10-30,Issuer-3,listed_equity,49706,long
+P-2026-10-30-4,2026-10-30,Issuer-4,listed_equity,51584,long
+P-2026-10-30-5,2026-10-30,Issuer-5,listed_equity,48074,long
+P-2026-10-30-fund,2026-10-30,Money Fund,qualifying_money_fund,100000,long

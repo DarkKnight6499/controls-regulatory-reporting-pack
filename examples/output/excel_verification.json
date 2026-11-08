@@ -1,0 +1,33 @@
+{
+  "engine": "@oai/artifact-tool",
+  "comparisons": 684,
+  "mismatches": 0,
+  "tolerance_usd": 0.01,
+  "tolerance_rate": 1e-12,
+  "mutation_checks": [
+    "Reserve source credit +100 changes required reserve by +100",
+    "Blank reserve amount fails validation",
+    "Zero reserve amount remains valid",
+    "Duplicate reserve IDs fail validation for both rows",
+    "Revised operating payment +100 changes remeasured PV by 100/(1+rate); ending ROU stays zero",
+    "Blank lease discount rate fails input validation",
+    "Zero lease discount rate is valid"
+  ],
+  "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "native_excel": "Not tested",
+  "visuals": "Generated for review",
+  "source_snapshot": "workbook_inputs.json",
+  "saved_file_checks": {
+    "cached_comparisons": 684,
+    "max_absolute_difference": 5.820766091346741e-11,
+    "saved_errors": [],
+    "author": "Yazad Madan",
+    "automatic_calculation": true,
+    "formatting": "No tab colors, applied cell fills or font colors"
+  },
+  "reopened_recalculation": {
+    "comparisons": 684,
+    "mismatches": 0,
+    "engine": "@oai/artifact-tool"
+  }
+}

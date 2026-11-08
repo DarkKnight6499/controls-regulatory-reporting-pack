@@ -1,0 +1,51 @@
+"""Shared demonstration assumptions and named fields."""
+from pathlib import Path
+
+# Configuration
+ROOT = Path(__file__).resolve().parents[2]
+DATA_DIR = ROOT / "data" / "synthetic"
+OUTPUT_DIR = ROOT / "examples" / "output"
+SEED = 8421533
+AS_OF = "2026-10-30"
+START_DATE = "2026-10-19"
+BUSINESS_DAYS = 10
+SAMPLE_SIZE = 12
+AUTHOR = "Yazad Madan"
+MONEY_TOLERANCE = 0.01
+VARIANCE_AMOUNT = 100_000.0
+VARIANCE_PERCENT = 0.10
+CAPITAL_FLOOR = 250_000.0
+AI_LIMIT = 15.0
+ITEM10_REDUCTION = 0.01
+EQUITY_HAIRCUT = 0.15
+MONEY_FUND_HAIRCUT = 0.02
+CONCENTRATION_LIMIT = 0.10
+LEVERAGE_MAX = 4.0
+INTEREST_COVER_MIN = 3.0
+LIQUIDITY_MIN = 500_000.0
+VENDOR_HIGH = 4.0
+VENDOR_MEDIUM = 2.5
+REVIEW_DAYS = {"Tier 1": 90, "Tier 2": 180, "Tier 3": 365}
+QUESTION_WEIGHTS = {"security": 3, "continuity": 3, "financial": 2, "compliance": 2}
+REASONABLE_POSSIBILITY = 3
+MATERIAL_IMPACT = 4
+IMPORTANT_IMPACT = 3
+DATE = "date"
+ID = "record_id"
+AMOUNT = "amount"
+CATEGORY = "category"
+AGE = "age_days"
+MARKET_VALUE = "market_value"
+SECURED = "secured"
+COLLECTIBLE = "collectible"
+AFFILIATE = "affiliate"
+ACCOUNT_TYPE = "account_type"
+ACCOUNT = "account"
+BALANCE = "balance"
+SIDE = "side"
+ISSUER = "issuer"
+ASSET_CLASS = "asset_class"
+CONTROL_ID = "control_id"
+EVIDENCE_ID = "evidence_id"
+LEASE_ID = "lease_id"
+VENDOR_ID = "vendor_id"
